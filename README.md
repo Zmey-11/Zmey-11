@@ -36,3 +36,6 @@
     <img src="https://img.shields.io/badge/Email-9745F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/zmey-11/zmey-11/blob/output/github-contribution-grid-snake.svg)
+
